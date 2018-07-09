@@ -1,0 +1,35 @@
+body{
+    color: white;
+    background-color: deepskyblue;
+}
+.back{
+    width: 50px;
+    height: 50px;
+}
+.logo_top{
+    text-align: center;
+    height: 180px;
+    margin-top: 80px;
+}
+.text{
+    width: 80%;
+    height: 180px;
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+}
+.logo_bottom{
+    height: 200px;
+}
+.logo_1{
+    float: left;
+    width:30px;
+    height:200px;
+    margin-left: 20px;
+}
+.logo_2{
+    float: right;
+    width:30px;
+    height:200px;
+    margin-right: 70px;
+}
